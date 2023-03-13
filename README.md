@@ -1,5 +1,4 @@
-# module-4-challenge
-Coding Quiz Challenge
+# Coding Quiz
 
 ## Description
 Simple Coding Quiz demonstrating html, css, and javaScript
